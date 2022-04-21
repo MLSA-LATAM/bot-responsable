@@ -21,13 +21,13 @@ Sigue estos pasos para crear el bot:
 4. Asigne al proyecto un nombre como AnimalHelp, seleccione una ubicación para el código y, después, seleccione Crear.
 
 ### Obtención de información
-Para obtener la información que le servirá al bot para realizar las traducciones de los animales, se debe descargar el archivo 'animals.csv' [aquí](https://github.com/MLSA-LATAM/bot-responsable/blob/main/data/animals.csv) y se debe pegar en el directorio raíz donde se encuentra la plantilla.
+Para obtener la información que le servirá al bot para realizar las traducciones de los animales, se debe descargar el archivo ``animals.csv`` [aquí](https://github.com/MLSA-LATAM/bot-responsable/blob/main/data/animals.csv) y se debe pegar en el directorio raíz donde se encuentra la plantilla.
 
 ### Codificación del bot
-Crea un archivo nuevo dentro de la solución de 'AnimalHelp' de tipo 'Clase' y llámalo 'AnimalData.cs'. Dentro de este archivo copia el código del archivo 'AnimalData.cs' al que puedes acceder desde [aquí](https://github.com/MLSA-LATAM/bot-responsable/blob/main/src/AnimalData.cs)
+Crea un archivo nuevo dentro de la solución de ``AnimalHelp`` de tipo ``Clase`` y llámalo ``AnimalData.cs``. Dentro de este archivo copia el código del archivo ``AnimalData.cs`` al que puedes acceder desde [aquí](https://github.com/MLSA-LATAM/bot-responsable/blob/main/src/AnimalData.cs)
 
 ### Agregar mensaje de bienvenida
-Para el mensaje de bienvenida, se debe modificar el archivo 'EchoBot.cs'. Dichas modificaciones se encuentran [aquí](https://github.com/MLSA-LATAM/bot-responsable/blob/main/src/EchoBot.cs)
+Para el mensaje de bienvenida, se debe modificar el archivo ``EchoBot.cs``. Dichas modificaciones se encuentran [aquí](https://github.com/MLSA-LATAM/bot-responsable/blob/main/src/EchoBot.cs)
 
 ### Prueba del bot
 Ejecuta el programa sin depurar en Visual Studio. Si todo sale bien, se desplegará una página web que contendrá la dirección en nuestro localhost en la cual se está ejecutando nuestro bot. Abre Bot Framework Emulator y pega dicha dirección el menú de abrir bot. 
