@@ -33,3 +33,6 @@ Sigue estos pasos para crear el bot:
 
 ## Recursos
 Este tutorial está basado en módulo de Microsoft Learn [Creación de un bot de chat para ayudar a los alumnos a aprender geografía](https://docs.microsoft.com/es-mx/learn/modules/responsible-bots/). También puedes revisar el módulo [Introducción a los bots responsables](https://docs.microsoft.com/es-mx/learn/modules/responsible-bots-introduction/) para profundizar en los principios de bots responsables, así como el módulo [Implementación de un bot de servicio al cliente](https://docs.microsoft.com/es-mx/learn/modules/deploy-responsible-bot/) para aplicaciones empresariales de los bots responsables.
+
+### Contribuidores
+- [@FelFT](https://github.com/FelFT)
