@@ -37,7 +37,12 @@ De esta manera, ¡ya tenemos creado nuestro bot responsable!
 Estos pasos se pueden extender para otro tipo de aplicaciones, pues podríamos tener diferentes bases de datos de las cuales nuestro bot obtendrá la informaión. En un ámbito empresarial sería útil para un servicio de respuestas automáticas a las preguntas más comunes. Si se tienen conocimientos más avanzados, se pueden integrar otros servicios de Azure Cognitive Services para cumplir con todos los requerimientos de un bot responsable.
 
 ## Recursos
-Este tutorial está basado en módulo de Microsoft Learn [Creación de un bot de chat para ayudar a los alumnos a aprender geografía](https://docs.microsoft.com/es-mx/learn/modules/responsible-bots/). También puedes revisar el módulo [Introducción a los bots responsables](https://docs.microsoft.com/es-mx/learn/modules/responsible-bots-introduction/) para profundizar en los principios de bots responsables, así como el módulo [Implementación de un bot de servicio al cliente](https://docs.microsoft.com/es-mx/learn/modules/deploy-responsible-bot/) para aplicaciones empresariales de los bots responsables.
+Este tutorial está basado en módulo de Microsoft Learn [Creación de un bot de chat para ayudar a los alumnos a aprender geografía](https://docs.microsoft.com/es-mx/learn/modules/responsible-bots/). 
+
+- [Bots responsables: 10 directrices para los desarrolladores de IA conversacional](https://www.microsoft.com/en-us/research/uploads/prod/2018/11/Bot_Guidelines_Nov_2018.pdf) 
+- Rutas de aprendizaje:
+  - [Introducción a los bots responsables](https://docs.microsoft.com/es-mx/learn/modules/responsible-bots-introduction/) 
+  - [Implementación de un bot de servicio al cliente](https://docs.microsoft.com/es-mx/learn/modules/deploy-responsible-bot/) 
 
 ### Contribuidores
 - [@FelFT](https://github.com/FelFT)
